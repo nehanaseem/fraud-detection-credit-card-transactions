@@ -48,28 +48,23 @@ The project is implemented in Python using the following libraries:
 - `sklearn`: For machine learning algorithms and model evaluation.
 - `imblearn`: For handling imbalanced datasets using SMOTE.
 
-## Usage
-Clone the repository to your local machine.
-Place the dataset fraud_detection_data.csv in the same directory as the script.
-Run the script using Python.
-
-## Results
-The model's performance metrics (accuracy, precision, recall, F1 score, AUC-ROC) will be displayed after execution.
-Visualizations illustrating the distribution of fraudulent and legitimate transactions will be generated.
-
-## Recommendations
-Based on the analysis and model performance, recommendations for improving the fraud detection process can be provided.
-
-## Acknowledgments
-Thank you to XPACE TECHNOLOGIES Pvt Ltd for providing the opportunity to work on this project.
-
-
 ## Installation
 To run this project, ensure you have the required libraries installed. You can use the following command to install them via pip:
 
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn imbalanced-learn
 ```
+## Usage
+- Clone the repository to your local machine.
+- Place the dataset fraud_detection_data.csv in the same directory as the script.
+- Run the script using Python.
 
-## Installation
+## Results
+- The model's performance metrics (accuracy, precision, recall, F1 score, AUC-ROC) will be displayed after execution.
+- Visualizations illustrating the distribution of fraudulent and legitimate transactions will be generated.
 
+## Recommendations
+Based on the analysis and model performance, recommendations for improving the fraud detection process can be provided.
+
+## Acknowledgments
+Thank you to XPACE TECHNOLOGIES Pvt Ltd for providing the opportunity to work on this project.
