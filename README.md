@@ -52,7 +52,7 @@ The project is implemented in Python using the following libraries:
 To run this project, ensure you have the required libraries installed. You can use the following command to install them via pip:
 
 ```bash
-pip install pandas numpy seaborn matplotlib scikit-learn imbalanced-learn
+pip install pandas numpy seaborn matplotlib scikit-learn imbalanced-learn ```
 
 Usage
 Clone the repository to your local machine.
